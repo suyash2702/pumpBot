@@ -1,0 +1,15 @@
+22:30:17 --- Loading API keys.
+22:30:17 --- API keys successfully loaded.
+22:30:17 --- Loading config.json settings.
+22:30:17 --- config.json settings successfully loaded.
+22:30:19 --- Caching all quoted coin pairs.
+22:30:20 --- Sucessfully cached quoted coin pairs.
+22:30:20 --- Getting quoted balance amount.
+22:30:20 --- Checking BNB balance if topup required.
+22:30:20 --- Waiting for trading pair input.
+22:30:22 --- Calculating amount of coin to buy.
+22:30:22 --- Rounding amount of coin.
+22:30:22 --- Rounding price for coin.
+22:30:22 --- Attempt to create limit buy order.
+22:30:23 --- Binance API error has occured on buy order.
+22:30:23 --- Quitting program
